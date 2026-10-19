@@ -104,6 +104,7 @@ Ensure that `spam_classifier.joblib` and `app.py` are in the project root direct
 BS Artificial Intelligence Student | Sindh Madressatul Islam University (SMIU), Karachi
 
 GitHub: [@eng-gotam](https://github.com/eng-gotam)
+Live app: [https://spam-message-classifier-wq7lwreshex4huvrnhzcqe.streamlit.app/]
 
 ---
 
